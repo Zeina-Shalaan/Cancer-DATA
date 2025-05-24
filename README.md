@@ -4,7 +4,7 @@ Demo Video Link: https://drive.google.com/file/d/1MQzg-NycLCX4WpkrvoT-eCSDhNQufY
 
 This repository contains an in-depth analysis of global cancer patient data from 2015 to 2024, exploring the influence of genetic risk, cancer stage at diagnosis, gender, and environmental factors on survival outcomes and disease severity. Conducted by [Zeina Shalaan](https://www.linkedin.com/in/zeina-shalaan-86b078307/), [Mira Micheal](https://www.linkedin.com/in/mira-m-2061a4322/) , [Maya Shalash](https://www.linkedin.com/in/maya-shalash-13a251356/) , [Mennatallah Amr](https://www.linkedin.com/in/mennatallah-amr-mostafa-ab72282a2/)
 
-# **Hypotheses**
+# **Hypothesis**
 1. Does cancer stage at diagnosis have a stronger impact on survival than genetic risk?
 Null Hypothesis (H₀) 1: No difference in the influence of genetic predisposition and cancer stage on survival.
 
