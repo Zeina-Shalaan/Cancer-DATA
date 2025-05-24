@@ -2,7 +2,7 @@
 
 Demo Video Link: https://drive.google.com/file/d/1MQzg-NycLCX4WpkrvoT-eCSDhNQufYc5/view?usp=sharing
 
-This repository contains an in-depth analysis of global cancer patient data from 2015 to 2024, exploring the influence of genetic risk, cancer stage at diagnosis, gender, and environmental factors on survival outcomes and disease severity.
+This repository contains an in-depth analysis of global cancer patient data from 2015 to 2024, exploring the influence of genetic risk, cancer stage at diagnosis, gender, and environmental factors on survival outcomes and disease severity. Conducted by @MiraMicheal , @mayashalashh , @MennaFoaud
 
 # **Hypotheses**
 1. Does cancer stage at diagnosis have a stronger impact on survival than genetic risk?
